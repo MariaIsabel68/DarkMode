@@ -30,7 +30,7 @@ function Example() {
           {theme === "dark" ? (
             <img src="./assets/moon.svg" />
           ) : (
-            <img src="https://imgur.com/Rrd7TEZ" />
+            <img src="./assets/sun.svg" />
           )}
         </SwitchButton>
         <br></br>
