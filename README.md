@@ -2,5 +2,5 @@
 
 ## Result: 
 
-<img src="../../PRINTS/darkMode.png">
-<img src="../../PRINTS/lightMode.png">
+![Alt text](../../PRINTS/darkMode.png "Title")
+![Alt text](../../PRINTS/darkMode.png "Title")
